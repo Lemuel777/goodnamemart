@@ -1,1 +1,2 @@
-An auction website for vehicles and properties etc.
+An auction website for vehicles,
+properties etc.
